@@ -1,2 +1,3 @@
 # BasicShapes
-Exercise material in Java
+
+Complétez le code fourni pour construire des cercles et des carrés.
